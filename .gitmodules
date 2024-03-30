@@ -1,0 +1,3 @@
+[submodule "otfcc"]
+	path = otfcc
+	url = https://github.com/caryll/otfcc/
